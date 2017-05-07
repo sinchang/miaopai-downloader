@@ -1,6 +1,6 @@
 {
   "name": "miaopai-downloader",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "miaopai video downloader",
   "repository": {
     "url": "sinchang/miaopai-downloader",
@@ -49,6 +49,7 @@
     "meow": "^3.7.0",
     "phantom": "^4.0.3",
     "pleasant-progress": "^1.1.0",
-    "request": "^2.81.0"
+    "request": "^2.81.0",
+    "update-notifier": "^2.1.0"
   }
 }

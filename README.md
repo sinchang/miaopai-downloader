@@ -17,6 +17,8 @@ download more than one video, just use `miaopai-downloader url1 url2`
 
 
 videos will in `videos` folder 
+
+ps: Make sure your Nodejs version is v8.9.0 or greater
 ```
 
 ## Contributing
